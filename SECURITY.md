@@ -11,3 +11,9 @@ currently being supported with security updates.
 | 12.x   | :white_check_mark: |
 | < 12.0  | :x:                |
 
+| Discord.js | Supported          |
+| ------------ | ------------------ |
+| 13.x         | :white_check_mark: |
+| 12.x         | :white_check_mark: |
+| < 12.0       | :x:                |
+
