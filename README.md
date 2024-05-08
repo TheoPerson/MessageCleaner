@@ -36,7 +36,7 @@ Contributions are welcome! To contribute to this project, please follow these st
 
 ## Follow Me
 - **Twitter:** [@JUG_SEC](https://twitter.com/JUG_SEC)
-- **Website:** [juègsec.Com](https://juègsec.Com)
+- **Website:** [juègsec.Com](https://jugsec.com)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
