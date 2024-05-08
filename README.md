@@ -34,5 +34,9 @@ Contributions are welcome! To contribute to this project, please follow these st
 4. Push your changes to your fork: `git push origin feature/my-new-feature`.
 5. Create a pull request to propose your changes.
 
+## Follow Me
+- **Twitter:** [@JUG_SEC](https://twitter.com/JUG_SEC)
+- **Website:** [juègsec.Com](https://juègsec.Com)
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
